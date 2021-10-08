@@ -28,5 +28,10 @@
 
 <br />
 
+### Publicações
+
+- [Encontrando mínimos de funções através de Algoritmos Genéticos](https://portfoliobernardocaixeta.wordpress.com/2021/07/18/encontrando-minimos-de-funcoes-atraves-de-algoritmos-geneticos/)
+- [Estudo da Emissão de Gases Estufa no Brasil](https://portfoliobernardocaixeta.wordpress.com/2021/07/16/estudo-da-emissao-de-gases-estufa-no-brasil/)
+
 [instagram]: https://www.instagram.com/bernardeus__/
 [linkedin]: https://www.linkedin.com/in/bernardomcaixeta/
