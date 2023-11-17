@@ -2,8 +2,10 @@
 
 ## Sobre mim
 
-- 👉 Estudante de Engenharia Nuclear na Universidade Federal do Rio de Janeiro
-- 👉 Membro da equipe de competição UFRJ Analytica
+- 👉 Mestrando em Engenharia Nuclear pela COPPE/UFRJ
+- 👉 Formado em Engenharia Nuclear pela Universidade Federal do Rio de Janeiro (UFRJ)
+- 👉 Atuei como Analista de Dados e Business Intelligence nas empresas Ativy e Prudential do Brasil
+- 👉 Ex-membro da equipe de competição UFRJ Analytica
 - 👉 Colaborador no projeto de extensão Ciência de Dados para Cidades Inteligentes da UFRJ
 - 👉 Atualmente focando em projetos relacionados à Ciência de Dados e Machine Learning
 
